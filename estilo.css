@@ -1,0 +1,17 @@
+body {
+	border:2px solid green;
+}
+
+.container {
+	display: flex;
+	margin: 50px;
+	
+}
+
+.container img {
+	width: 100%;
+}
+
+.texto {
+	margin: 10px;
+}
